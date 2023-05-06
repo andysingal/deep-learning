@@ -1,4 +1,6 @@
-# deep-learning
+# **Journey in  Deep Learning**
+
+![MachineLearning](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/ML.jpg)
 
 | Books and Resources | Status of Completion |
 | ----- | -----|
