@@ -1,6 +1,6 @@
 # **Journey in  Deep Learning**
 
-![MachineLearning](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/ML.jpg)
+![MachineLearning](https://github.com/andysingal/deep-learning/blob/main/Screen%20Shot%202023-05-06%20at%2012.15.32%20PM.png)
 
 | Books and Resources | Status of Completion |
 | ----- | -----|
