@@ -8,3 +8,5 @@
 | 2. **Python Machine Learning - Third Edition** |  |
 | 3. **Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 3rd Edition** |  |
 | 4. **TensorFlow in Action** |  |
+| 5. [**TensorFlow-Advanced-Techniques-Specialization**](https://www.coursera.org/specializations/tensorflow-advanced-techniques)| |
+
